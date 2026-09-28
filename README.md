@@ -1,56 +1,40 @@
-# Lapushel
-<div align='center'>
-  <img src='https://github.com/La-Pucelle/La-Pucelle/assets/108086683/5204ec93-cde7-407a-9966-6780a6eb0ca4'>
-</div>
-<br />
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=118D04&center=true&vCenter=true&width=435&lines=-+Hi%2C+I%E2%80%99m+%40La-Pucelle.;-+Computer+Engineering+Student" alt="Typing SVG" /></a>
-</div>
+
+<a href="https://www.lapushel.dev">
+  <img src="assets/header.svg" width="100%" alt="Lapushel, multimedia engineer, musician and web mage" />
+</a>
+
 <br />
-<div align="center"> 
-  <a href="https://www.lapushel.dev/about">
-  <img src="https://lanyard.cnrad.dev/api/500787513330499584?theme=light&bg=9ecf80&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Maybe%20he%20is%20studying..." />
-</div>
 <br />
-<div align="center">
-  <a href="https://www.google.com/maps/place/Chile/@-35.4432106,-106.2422428,4z/data=!3m1!4b1!4m6!3m5!1s0x9662c5410425af2f:0x505e1131102b91d!8m2!3d-35.675147!4d-71.542969!16zL20vMDFwMXY?hl=es">
-    <img 
-    alt="banner" 
-    title="chile"
-    src="https://custom-icon-badges.demolab.com/badge/Santiago-CH-red?style=for-the-badge&logo=location&logoColor=white"/>
-  </a>
-  
-  <a href="https://www.youtube.com/channel/UCHD0hasejEdvFD3HYSWpoGg">
-    <img 
-    alt="banner" 
-    title="youtube"
-    src="https://custom-icon-badges.demolab.com/badge/-Youtube-red?style=for-the-badge&logo=video&logoColor=white"/>
-  </a>
-  
-  <a href="https://discord.gg/aMRWJ8FgqJ">
-    <img 
-    alt="banner" 
-    title="discord"
-    src="https://custom-icon-badges.demolab.com/badge/-Discord-green?style=for-the-badge&logo=discordlogo&logoColor=white"/>
-  </a>
-  
-  <a href="https://www.instagram.com/lapushel">
-    <img 
-    alt="banner" 
-    title="instagram"
-    src="https://custom-icon-badges.demolab.com/badge/-Instagram-pink?style=for-the-badge&logo=iglogo&logoColor=white"/>
-  </a>
-</div>
+
+<img src="assets/prologue.svg" width="100%" alt="Chapter I, Prologue: about the traveller" />
+
 <br />
-<p align="center">
-  <img align="center" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  <img align="center" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img align="center" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img align="center" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img align="center" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img align="center" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img align="center" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img align="center" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img align="center" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-</p>
+<br />
+
+<img src="assets/grimoire.svg" width="100%" alt="Chapter II, Grimoire: C, C++, C#, Java, JavaScript, Python, HTML, CSS, React, Next.js, Node.js, Git, Docker, AWS, Unity and Ableton" />
+
+<br />
+<br />
+
+<img src="assets/guild.svg" width="100%" alt="Chapter III, Adventurers’ guild: where to find me" />
+
+<a href="https://www.lapushel.dev"><img src="assets/quest-portfolio.svg" width="19%" alt="Portfolio: lapushel.dev" /></a><a href="https://www.youtube.com/channel/UCHD0hasejEdvFD3HYSWpoGg"><img src="assets/quest-youtube.svg" width="19%" alt="YouTube: La Pucelle" /></a><a href="https://discord.gg/aMRWJ8FgqJ"><img src="assets/quest-discord.svg" width="19%" alt="Discord: join the party" /></a><a href="https://www.instagram.com/lapushel"><img src="assets/quest-instagram.svg" width="19%" alt="Instagram: @lapushel" /></a><a href="https://steamcommunity.com/id/lapushel_/"><img src="assets/quest-steam.svg" width="19%" alt="Steam: lapushel_" /></a>
+
+<br />
+<br />
+
+<img src="assets/campfire.svg" width="100%" alt="Chapter IV, Campfire: what I am up to right now" />
+
+<a href="https://www.lapushel.dev/me">
+  <img src="https://lanyard.cnrad.dev/api/500787513330499584?theme=dark&bg=10152e&borderRadius=16px&animated=true&hideDiscrim=true&idleMessage=Probably%20brewing%20a%20V60..." width="60%" alt="Discord presence" />
+</a>
+
+<br />
+<br />
+
+<a href="https://www.lapushel.dev">
+  <img src="assets/epilogue.svg" width="100%" alt="Frieren holding blue flowers under the meteor shower. Thanks for walking with me, traveller." />
+</a>
+
+</div>
